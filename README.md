@@ -14,7 +14,7 @@ The code is written in Python, a popular high-level programming language known f
 
 3.Run the script: Type python adventure_game.py and press Enter.
 
-# Authour
+# Author
 
 Evangeline Maddela
 https://github.com/evangelinemaddela
